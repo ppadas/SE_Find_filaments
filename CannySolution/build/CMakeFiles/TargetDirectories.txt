@@ -1,0 +1,3 @@
+/home/ppadas/Documents/Find_filament/CannySolution/build/CMakeFiles/edit_cache.dir
+/home/ppadas/Documents/Find_filament/CannySolution/build/CMakeFiles/rebuild_cache.dir
+/home/ppadas/Documents/Find_filament/CannySolution/build/CMakeFiles/tmp_.dir

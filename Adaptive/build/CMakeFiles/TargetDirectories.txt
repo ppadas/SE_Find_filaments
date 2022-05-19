@@ -1,0 +1,3 @@
+/home/ppadas/Documents/Find_filament/Adaptive/build/CMakeFiles/edit_cache.dir
+/home/ppadas/Documents/Find_filament/Adaptive/build/CMakeFiles/rebuild_cache.dir
+/home/ppadas/Documents/Find_filament/Adaptive/build/CMakeFiles/ridges.dir
